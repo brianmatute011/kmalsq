@@ -8,13 +8,13 @@ import lombok.Setter;
 /**
  * Represents a unary criteria in the rules.
  */
-@Getter
-@Setter
-@NonNull
+
+@AllArgsConstructor
 public class UnaryCriteria extends BaseCriteria{
     /**
      * NOT Operator
      */
+    @Getter
     @Setter
     @NonNull
     private Condition condition;
@@ -22,6 +22,7 @@ public class UnaryCriteria extends BaseCriteria{
     /**
      * The {@link BaseCriteria} of the right in the query.
      */
+    @Getter
     @Setter
     @NonNull
     private BaseCriteria right;

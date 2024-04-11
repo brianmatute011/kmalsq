@@ -2,6 +2,7 @@ package mlix.global.kmal.model.criteria;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
+import lombok.Getter;
 import lombok.Setter;
 import mlix.global.kmal.model.operator.Operator;
 import mlix.global.kmal.model.value.Value;
@@ -15,24 +16,28 @@ public class BaseQuery extends BaseCriteria{
      *
      */
     @Setter
+    @Getter
     private Operator operator;
 
     /**
      * The value to filter. See {@link Value}
      */
     @Setter
+    @Getter
     private Value<?> value;
 
     /**
      * The fields to filter.
      */
     @Setter
+    @Getter
     private List<String> fields;
 
     /**
      * If the filter must be met for all fields, or any of them.
      */
     @Setter
+    @Getter
     private boolean all;
 
 
