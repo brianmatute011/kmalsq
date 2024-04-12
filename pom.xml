@@ -11,6 +11,7 @@
   <url>http://maven.apache.org</url>
   <modules>
     <module>kmalsq-dsl</module>
+    <module>kmalsq-elasticsearch-integration</module>
   </modules>
 
   <properties>
