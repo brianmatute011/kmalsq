@@ -6,16 +6,16 @@
 <div>
 
 [//]: # (    <img src="./.resources/antlrv4.svg">)
-<img alt="antlr badge" src="https://img.shields.io/badge/antlr-v4-red">
+<img alt="antlr badge" src="https://img.shields.io/badge/antlr-v4-red"> <img alt="version badge" src="https://img.shields.io/badge/version-1.0-blue"> <img alt="test badge" src="https://img.shields.io/badge/tests-passing-green"> <img alt="release badge" src="https://img.shields.io/badge/release-red">
 
 [//]: # (    <img src="./.resources/version.svg">)
-<img alt="version badge" src="https://img.shields.io/badge/version-1.0-blue">
+
 
 [//]: # (<img src="./.resources/testsb.svg">)
-<img alt="test badge" src="https://img.shields.io/badge/tests-passing-green">
+
 
 [//]: # (<img src="./.resources/release.svg">)
-<img alt="release badge" src="https://img.shields.io/badge/release-red">
+
 
 </div>
 
