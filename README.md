@@ -57,7 +57,7 @@ public class App {
 
 
 
-### Ejemplos:〈(•ˇ‿ˇ•)→ Prompt vs Translation 
+### Prompt vs Translation 
 
 ```shell
 KmalSQ prompt: [asin.keyword] == '0609804340';
