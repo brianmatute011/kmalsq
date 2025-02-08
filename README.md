@@ -31,7 +31,7 @@ KmalSQ is a Generic DSL that allows the generation of queries to multiple search
 
 
 ## Available Integrations
--[x] Elasticsearch
+- [x] Elasticsearch
 
 
 # Integration with ElascticSearch
